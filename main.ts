@@ -1,2 +1,2 @@
-0;
-eval(process.env.M)
+eval(
+process.env.M)
